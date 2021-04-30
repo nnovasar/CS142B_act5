@@ -21,12 +21,12 @@ class Node (object):
 #   size is the number of items in the stack
 
 
-    # Write a push method that takes a data (type str) and pushes it on top of the stack.
+    # Write a push method that takes data (type str) and pushes it on top of the stack.
 
 
-    # Write a pop method that removes and retruns the data on top of the stack.
+    # Write a pop method that removes and returns the data on top of the stack.
 
-    # Write is_empty method that returns true if stack is empty.
+    # Write is_empty method that returns true if the stack is empty.
 
     # Write stack_size method that returns the size of the stack.
 
